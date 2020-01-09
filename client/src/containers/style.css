@@ -1,0 +1,24 @@
+form {
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom {
+  margin-bottom: 200px;
+}
+.card {
+  margin: 10px;
+}
+
+.badge {
+  text-align: end;
+  right: 20px;
+
+  position: absolute;
+}
