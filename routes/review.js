@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const Zomato = require("zomato.js");
-const zomato = new Zomato("33fda91f82e355497a5f479efd7d789a");
+const zomato = new Zomato("7dcb305c2c8e1148c245007a3f8bb5d8");
 
 router.get("/", (req, res) => {
   zomato
